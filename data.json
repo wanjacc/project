@@ -1,0 +1,84 @@
+{
+  "photo": [
+    {
+      "stage":[
+       {
+        "path1": "images/01a.jpg",
+        "answer": [
+            {"ans": "answer A1", "correct": 0},
+            {"ans": "answer B1", "correct": 1},
+            {"ans": "answer C1", "correct": 0},
+            {"ans": "answer D1", "correct": 0}
+        ]
+      },      
+      {
+        "path1": "images/02a.jpg",
+        "answer": [
+            {"ans": "answer A2", "correct": 0},
+            {"ans": "answer B2", "correct": 0},
+            {"ans": "answer C2", "correct": 0},
+            {"ans": "answer D2", "correct": 1}
+        ]
+      },
+      {
+        "path1": "images/03a.jpg",
+        "answer": [
+            {"ans": "answer A3", "correct": 1},
+            {"ans": "answer B3", "correct": 0},
+            {"ans": "answer C3", "correct": 0},
+            {"ans": "answer C3", "correct": 0}
+        ]
+      },      
+      {
+        "path1": "images/04a.jpg",
+        "answer": [
+            {"ans": "answer A4", "correct": 0},
+            {"ans": "answer B4", "correct": 1},
+            {"ans": "answer C4", "correct": 0},
+            {"ans": "answer D4", "correct": 0}
+        ]
+      }
+      ]},
+    {
+      "stage":[
+       {
+        "path1": "images/01a.jpg",
+        "answer": [
+            {"ans": "answer A1", "correct": 0},
+            {"ans": "answer B1", "correct": 1},
+            {"ans": "answer C1", "correct": 0},
+            {"ans": "answer D1", "correct": 0}
+        ]
+      },      
+      {
+        "path1": "images/02a.jpg",
+        "answer": [
+            {"ans": "answer A2", "correct": 0},
+            {"ans": "answer B2", "correct": 0},
+            {"ans": "answer C2", "correct": 0},
+            {"ans": "answer D2", "correct": 1}
+        ]
+      },
+      {
+        "path1": "images/03a.jpg",
+        "answer": [
+            {"ans": "answer A3", "correct": 1},
+            {"ans": "answer B3", "correct": 0},
+            {"ans": "answer C3", "correct": 0},
+            {"ans": "answer C3", "correct": 0}
+        ]
+      },      
+      {
+        "path1": "images/04a.jpg",
+        "answer": [
+            {"ans": "answer A4", "correct": 0},
+            {"ans": "answer B4", "correct": 1},
+            {"ans": "answer C4", "correct": 0},
+            {"ans": "answer D4", "correct": 0}
+        ]
+      }
+      ]}
+    ]
+
+ 
+}
